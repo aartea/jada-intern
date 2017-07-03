@@ -10,9 +10,9 @@ body
 	padding: 0px;
 	background: #2b2b2b;
 	font-family: 'Source Sans Pro', sans-serif;
-	font-size: 11pt;
+	font-size: 12pt;
 	font-weight: 300;
-	color: #6c6c6c
+	color: #333;
 }
 
 h1, h2, h3
@@ -543,7 +543,7 @@ ul.contact li a.icon-rss:before
 	#header-featured
 	{
 		padding: 10em 0em;
-		background-image: url(images/pic.jpg);
+		background-image: url(images/space.jpg);
 		background-position: center;
 		background-size: cover;
 	}
