@@ -116,7 +116,7 @@ a:hover
 .image-left
 {
 	float: left;
-	margin: 0 2em 2em 0;
+	/*margin: 0 2em 2em 0;*/
 }
 
 .image-centered
@@ -421,17 +421,20 @@ ul.contact li a.icon-rss:before
 
 #logo h1
 {
+	position: relative;
 	display: inline-block;
 	font-size: 2.5em;
 	text-transform: uppercase;
 	font-weight: 700;
 	color: #ED7070;
 	padding-right: 0.50em;
+	padding-top: 0.25em;
 	border-right: 1px solid rgba(0,0,0,.1);
 }
 
 #logo span
 {
+	float: left;
 	display: inline-block;
 	padding-right: .50em;
 	letter-spacing: 0.10em;
@@ -543,7 +546,7 @@ ul.contact li a.icon-rss:before
 	#header-featured
 	{
 		padding: 10em 0em;
-		background-image: url(images/space.jpg);
+		background-image: url(images/space.jpeg);
 		background-position: center;
 		background-size: cover;
 	}
