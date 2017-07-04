@@ -399,7 +399,7 @@ ul.contact li a.icon-rss:before
 
 #header-wrapper
 {
-	background: #2b2b2b;
+	/*background: #2b2b2b;*/
 }
 
 #header
@@ -546,7 +546,7 @@ ul.contact li a.icon-rss:before
 	#header-featured
 	{
 		padding: 10em 0em;
-		background-image: url(images/space.jpeg);
+		/*background-image: url(../images/space.jpeg);*/
 		background-position: center;
 		background-size: cover;
 	}
