@@ -23,6 +23,16 @@ h1, h2, h3
 	color: #454445;
 }
 
+h5 {
+	color:white;
+	text-align: center;
+	margin: 2px;
+}
+
+h5 i{
+	padding-left: 25px;
+}
+
 p, ol, ul
 {
 	margin-top: 0;
@@ -399,7 +409,7 @@ ul.contact li a.icon-rss:before
 
 #header-wrapper
 {
-	background: #2b2b2b;
+	/*background: #2b2b2b;*/
 }
 
 #header
@@ -546,7 +556,7 @@ ul.contact li a.icon-rss:before
 	#header-featured
 	{
 		padding: 10em 0em;
-		background-image: url(images/space.jpeg);
+		/*background-image: url(../images/space.jpeg);*/
 		background-position: center;
 		background-size: cover;
 	}
